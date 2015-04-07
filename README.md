@@ -1,9 +1,9 @@
 SIF with su
 ===========
 
-Xposed module for concealing the su binary from the "Love Live! School Idol Festival (ja ver.)".
+Xposed module for concealing the su binary from "Love Live! School Idol Festival (JP)".
 
-If you are using others concealer such as the RootCloak and it works well, you don't need to use this app!
+If you are using another concealer such as RootCloak and it works well, you don't need to use this module!
 
 
 Download
